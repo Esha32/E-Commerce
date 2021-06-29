@@ -1,0 +1,18 @@
+.about_us{
+    padding: 100px;
+}
+
+.about_us h2{
+    color: orange;
+    font-size: 35px;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+    font-family: cosmic,sans-serif;
+}
+.about_us p{
+    padding: 10px;
+    font-size: 15px;
+    font-family: cosmic,sans-serif;
+    line-height: 25px;
+}
